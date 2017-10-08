@@ -3,6 +3,8 @@ Chess is a game played between two opponents on opposite sides of a board contai
 
 Chess has six types of pieces: the Pawn, Rook, Knight, Bishop, Queen and King. Each piece has its own unique way to move. There are some similarities between the moves of the various pieces. All the pieces except the knight move in a straight line - horizontally, vertically or diagonally.
 
+https://www.chessclub.com/user/resources/rules/
+
 Chess is a game played by two players, who we'll call White and Black. It is played on a board of 64 squares. Each square can be empty or occupied by a piece. The initial position of the game consists of 16 white pieces and 16 black pieces, arranged as shown in the following diagram.
 
 Players alternate making moves. White always goes first. In a typical move, White selects a white piece and moves it to another square. The destination square is either empty or occupied by an enemy piece. In the latter case the enemy piece is said to be captured. The captured piece is removed from the board, and plays no further role in the game.
@@ -15,4 +17,6 @@ If it's impossible for Black to get out of check, then Black's king is said to b
 
 The remainder of this tutorial explains how all the pieces move, and a few other rules that don't quite fit the pattern described here, such as castling, promotion and en passant. These notes only try to explain the rules. Learning to play well is a different story.
 
-References: https://www.chessclub.com/user/resources/rules/Fundamentals.html
+References:
+1. https://www.chessclub.com/user/resources/rules/Fundamentals.html
+2. https://en.m.wikipedia.org/wiki/Rules_of_chess
